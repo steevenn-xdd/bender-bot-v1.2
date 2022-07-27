@@ -1,0 +1,22 @@
+{
+    "APIs": {
+      "zenz": "https://zenzapis.xyz",
+      "apikey": "YOURAPIKEY"
+    },
+    "options": {
+      "autoRead": true,
+      "self": false,
+      "limitCount": 25,
+      "limitGame": 30
+    },
+    "exif": {
+      "packname": "zenzapis",
+      "author": "Dark_Ezio"
+    },
+    "owner": [
+      "94761896648",
+      "94761539856"
+    ],
+    "timezone": "Asia/Colombo",
+    "footer": "©›Dark_Ezio"
+}
