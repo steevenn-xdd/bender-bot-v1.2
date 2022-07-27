@@ -32,7 +32,7 @@ ezio.addCommand(
 ---Owner Detals---
 
 ⚜ Name: Dark Ezio.
-⚜ Number: Wa.me/94761539856
+⚜ Number: Wa.me/188299416234
 ⚜ Company: Subadra Bro
 ⚜ Web Site: https://aidarkezio.github.io/
 ⚜ Youtube: https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ
